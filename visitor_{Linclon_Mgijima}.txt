@@ -1,0 +1,22 @@
+Name: Linclon Mgijima
+Age: 26
+2020-01-16
+14:23:19.852513
+Wuuuuuuuuh Wabalaba Dub DUb
+Kgaugelo Ramaramela
+--------------------------------------------
+Date of Visit: 2020-01-16
+Time of Visit: 14:23:25.751271
+Comment: Wuuuuuuuuh Wabalaba Dub DUb
+Person Visited: Kgaugelo Ramaramela
+--------------------------------------------
+Date of Visit: 2020-01-16
+Time of Visit: 14:23:30.199469
+Comment: Wuuuuuuuuh Wabalaba Dub DUb
+Person Visited: Kgaugelo Ramaramela
+--------------------------------------------
+Date of Visit: 2020-01-16
+Time of Visit: 14:23:32.625732
+Comment: Wuuuuuuuuh Wabalaba Dub DUb
+Person Visited: Kgaugelo Ramaramela
+--------------------------------------------
