@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="VisitorTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-01-20T09:02:44" hostname="sage-ThinkCentre-M73" time="0.057">
+<testsuite name="VisitorTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-02-03T11:09:34" hostname="sage-ThinkCentre-M73" time="0.078">
   <properties/>
-  <testcase name="save()" classname="VisitorTest" time="0.057">
-    <failure message="java.io.IOException" type="java.io.IOException">java.io.IOException
-	at Visitor.save(Visitor.java:51)
+  <testcase name="save()" classname="VisitorTest" time="0.078">
+    <failure message="org.opentest4j.AssertionFailedError: File already exists, user visiting again so it only appended different information ==&gt; expected: &lt;true&gt; but was: &lt;false&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: File already exists, user visiting again so it only appended different information ==&gt; expected: &lt;true&gt; but was: &lt;false&gt;
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:40)
+	at org.junit.jupiter.api.Assertions.assertTrue(Assertions.java:193)
 	at VisitorTest.save(VisitorTest.java:20)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -95,7 +97,8 @@
 	at java.base/java.lang.Thread.run(Thread.java:834)
 </failure>
   </testcase>
-  <system-out><![CDATA[Cannot Create an empty file
+  <system-out><![CDATA[Visitor visiting again
+INFO  - results in visitor_cvbndguj.txt
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

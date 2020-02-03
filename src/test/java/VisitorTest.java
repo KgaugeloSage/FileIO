@@ -12,7 +12,7 @@ class VisitorTest {
 
     @Test
     void save() throws IOException {
-        test.setFullName("      ");
+        test.setFullName("  cvbndguj   ");
         test.setAge(26);
         test.setNameOfPersonVisited("Kgaugelo Ramaramela");
         test.setComments("Wuuuuuuuuh Wabala3423ba Dub DUb");
@@ -26,7 +26,7 @@ class VisitorTest {
     }
 
     @Test
-    void loadError() throws IOException{
+    void loadError() {
         assertThrows(FileNotFoundException.class, () -> test.load("Bello Sage"));
     }
 
