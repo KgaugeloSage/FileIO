@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe20c13-94e1-494a-afc8-64ff724844a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/VisitorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/VisitorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/VisitorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/VisitorTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-VisitorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-VisitorTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/VisitorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VisitorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +176,7 @@
       <workItem from="1579615689102" duration="1208000" />
       <workItem from="1579767020131" duration="628000" />
       <workItem from="1580284630781" duration="377000" />
-      <workItem from="1580727853505" duration="491000" />
+      <workItem from="1580727853505" duration="1216000" />
     </task>
     <task id="LOCAL-00001" summary="fixed test">
       <created>1579511178604</created>
@@ -206,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579511178604</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Main method entered">
+      <created>1580728373274</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580728373274</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,73 +200,82 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed test" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed test" />
+    <MESSAGE value="Main method entered" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main method entered" />
   </component>
   <component name="WindowStateProjectService">
     <state x="547" y="166" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1579161018681">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
     <state x="547" y="166" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/39.27.1401.873@39.27.1401.873" timestamp="1579161018681" />
-    <state x="304" y="59" width="860" height="807" key="CommitChangelistDialog2" timestamp="1579511178440">
+    <state x="304" y="59" width="860" height="807" key="CommitChangelistDialog2" timestamp="1580728372999">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
-    <state x="304" y="59" width="860" height="807" key="CommitChangelistDialog2/39.27.1401.873@39.27.1401.873" timestamp="1579511178440" />
+    <state x="304" y="59" width="860" height="807" key="CommitChangelistDialog2/39.27.1401.873@39.27.1401.873" timestamp="1580728372999" />
     <state width="448" height="466" key="DebuggerActiveHint" timestamp="1579510263567">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
     <state width="448" height="466" key="DebuggerActiveHint/39.27.1401.873@39.27.1401.873" timestamp="1579510263567" />
-    <state width="1355" height="214" key="GridCell.Tab.0.bottom" timestamp="1580728316961">
+    <state width="1355" height="272" key="GridCell.Tab.0.bottom" timestamp="1580734523849">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
     <state width="1355" height="219" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1579248700849">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
     <state width="1355" height="219" key="GridCell.Tab.0.bottom.inPresentationMode/39.27.1401.873@39.27.1401.873" timestamp="1579248700849" />
-    <state width="1355" height="214" key="GridCell.Tab.0.bottom/39.27.1401.873@39.27.1401.873" timestamp="1580728316961" />
-    <state width="1355" height="214" key="GridCell.Tab.0.center" timestamp="1580728316960">
+    <state width="1355" height="272" key="GridCell.Tab.0.bottom/39.27.1401.873@39.27.1401.873" timestamp="1580734523849" />
+    <state width="1355" height="272" key="GridCell.Tab.0.center" timestamp="1580734523849">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
     <state width="1355" height="219" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1579248700848">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
     <state width="1355" height="219" key="GridCell.Tab.0.center.inPresentationMode/39.27.1401.873@39.27.1401.873" timestamp="1579248700848" />
-    <state width="1355" height="214" key="GridCell.Tab.0.center/39.27.1401.873@39.27.1401.873" timestamp="1580728316960" />
-    <state width="1355" height="214" key="GridCell.Tab.0.left" timestamp="1580728316960">
+    <state width="1355" height="272" key="GridCell.Tab.0.center/39.27.1401.873@39.27.1401.873" timestamp="1580734523849" />
+    <state width="1355" height="272" key="GridCell.Tab.0.left" timestamp="1580734523848">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
     <state width="1355" height="219" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1579248700848">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
     <state width="1355" height="219" key="GridCell.Tab.0.left.inPresentationMode/39.27.1401.873@39.27.1401.873" timestamp="1579248700848" />
-    <state width="1355" height="214" key="GridCell.Tab.0.left/39.27.1401.873@39.27.1401.873" timestamp="1580728316960" />
-    <state width="1355" height="214" key="GridCell.Tab.0.right" timestamp="1580728316961">
+    <state width="1355" height="272" key="GridCell.Tab.0.left/39.27.1401.873@39.27.1401.873" timestamp="1580734523848" />
+    <state width="1355" height="272" key="GridCell.Tab.0.right" timestamp="1580734523849">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
     <state width="1355" height="219" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1579248700849">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
     <state width="1355" height="219" key="GridCell.Tab.0.right.inPresentationMode/39.27.1401.873@39.27.1401.873" timestamp="1579248700849" />
-    <state width="1355" height="214" key="GridCell.Tab.0.right/39.27.1401.873@39.27.1401.873" timestamp="1580728316961" />
-    <state width="1355" height="272" key="GridCell.Tab.1.bottom" timestamp="1580728278827">
+    <state width="1355" height="272" key="GridCell.Tab.0.right/39.27.1401.873@39.27.1401.873" timestamp="1580734523849" />
+    <state width="1355" height="272" key="GridCell.Tab.1.bottom" timestamp="1580734523852">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
-    <state width="1355" height="272" key="GridCell.Tab.1.bottom/39.27.1401.873@39.27.1401.873" timestamp="1580728278827" />
-    <state width="1355" height="272" key="GridCell.Tab.1.center" timestamp="1580728278826">
+    <state width="1355" height="272" key="GridCell.Tab.1.bottom/39.27.1401.873@39.27.1401.873" timestamp="1580734523852" />
+    <state width="1355" height="272" key="GridCell.Tab.1.center" timestamp="1580734523851">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
-    <state width="1355" height="272" key="GridCell.Tab.1.center/39.27.1401.873@39.27.1401.873" timestamp="1580728278826" />
-    <state width="1355" height="272" key="GridCell.Tab.1.left" timestamp="1580728278826">
+    <state width="1355" height="272" key="GridCell.Tab.1.center/39.27.1401.873@39.27.1401.873" timestamp="1580734523851" />
+    <state width="1355" height="272" key="GridCell.Tab.1.left" timestamp="1580734523849">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
-    <state width="1355" height="272" key="GridCell.Tab.1.left/39.27.1401.873@39.27.1401.873" timestamp="1580728278826" />
-    <state width="1355" height="272" key="GridCell.Tab.1.right" timestamp="1580728278826">
+    <state width="1355" height="272" key="GridCell.Tab.1.left/39.27.1401.873@39.27.1401.873" timestamp="1580734523849" />
+    <state width="1355" height="272" key="GridCell.Tab.1.right" timestamp="1580734523852">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
-    <state width="1355" height="272" key="GridCell.Tab.1.right/39.27.1401.873@39.27.1401.873" timestamp="1580728278826" />
-    <state x="334" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579511220793">
+    <state width="1355" height="272" key="GridCell.Tab.1.right/39.27.1401.873@39.27.1401.873" timestamp="1580734523852" />
+    <state x="169" y="98" width="1120" height="728" key="MergeDialog" timestamp="1580728440117">
       <screen x="39" y="27" width="1401" height="873" />
     </state>
-    <state x="334" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/39.27.1401.873@39.27.1401.873" timestamp="1579511220793" />
+    <state x="169" y="98" width="1120" height="728" key="MergeDialog/39.27.1401.873@39.27.1401.873" timestamp="1580728440117" />
+    <state x="444" y="180" width="580" height="564" key="MultipleFileMergeDialog" timestamp="1580728440122">
+      <screen x="39" y="27" width="1401" height="873" />
+    </state>
+    <state x="444" y="180" width="580" height="564" key="MultipleFileMergeDialog/39.27.1401.873@39.27.1401.873" timestamp="1580728440122" />
+    <state x="334" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1580728459984">
+      <screen x="39" y="27" width="1401" height="873" />
+    </state>
+    <state x="334" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/39.27.1401.873@39.27.1401.873" timestamp="1580728459984" />
     <state x="139" y="125" width="1201" height="675" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1579508179030">
       <screen x="39" y="27" width="1401" height="873" />
     </state>

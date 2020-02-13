@@ -6,8 +6,12 @@ public class Main {
 
 
        Visitor bello = new Visitor();
+       bello.setFullName("Kgaugelo Ramaramela");
+       bello.setAge(21);
+       bello.setNameOfPersonVisited("Lincoln Mgijima");
        bello.save();
-        Visitor me = new Visitor();
+
+       bello.load("Kgaugelo Ramaramela");
 
 
 
